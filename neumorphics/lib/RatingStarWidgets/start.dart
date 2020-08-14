@@ -1,0 +1,1 @@
+//middle star should be biggest

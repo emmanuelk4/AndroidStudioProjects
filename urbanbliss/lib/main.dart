@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       title: 'Urban bliss',
       theme: ThemeData(
         primaryColor: Color(0xFFFF0000),
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.amber,
         visualDensity: VisualDensity.adaptivePlatformDensity,
         textTheme: GoogleFonts.oxygenTextTheme(
           Theme.of(context).textTheme

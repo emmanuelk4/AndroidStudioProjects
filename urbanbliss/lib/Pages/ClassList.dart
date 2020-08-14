@@ -133,7 +133,7 @@ class ClassListBottom extends StatelessWidget {
             ListView(
               scrollDirection: Axis.vertical,
               shrinkWrap: true,
-              physics: ClampingScrollPhysics() ,
+              physics: FixedExtentScrollPhysics() ,
               children:<Widget>[
                 ClassCard(),
                 ClassCard(),
